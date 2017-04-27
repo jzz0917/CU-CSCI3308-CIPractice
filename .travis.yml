@@ -1,3 +1,3 @@
 language: c
-install make dep
+install: make get dep
 script: make && make test
